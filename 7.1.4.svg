@@ -475,7 +475,7 @@
 <g id="node34" class="node"><title>MonadPlus</title>
 <g id="a_node34"><a xlink:href="https://github.com/scalaz/scalaz/tree/v7.1.4/core/src/main/scala/scalaz/MonadPlus.scala" xlink:title="scalaz.MonadPlus" target="_blank">
 <polygon fill="#799f5a" stroke="black" points="68.1069,-371 68.1069,-407 147.893,-407 147.893,-371 68.1069,-371"/>
-<text text-anchor="middle" x="108" y="-384.8" font-family="Times,serif" font-size="14.00">MonadPlus</text>
+<text text-anchor="middle" x="108" y="-384.8" font-family="Times,serif" font-size="14.00">モップ</text>
 </a>
 </g>
 </g>
